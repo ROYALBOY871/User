@@ -19,9 +19,6 @@
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
 
 
-[![CodeFactor](https://www.codefactor.io/repository/github/ROYALBOY871/Userbot/badge/main)](https://www.codefactor.io/repository/github/ROYALBOY871/Userbot/overview/main)
-
-
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ROYALBOY871/Userbot/graphs/commit-activity)
 
 
