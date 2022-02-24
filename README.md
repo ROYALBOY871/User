@@ -27,3 +27,4 @@
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/RMWNETWORK)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/RMWNETWORK)
 
+[𝙒𝙚 𝙧𝙚𝙘𝙤𝙢𝙢𝙚𝙣𝙙 𝙩𝙤 𝙪𝙨𝙚𝙧 𝙤𝙪𝙧 𝙎𝙩𝙧𝙞𝙣𝙜 𝙗𝙤𝙩 𝙛𝙤𝙧 𝙎𝙩𝙧𝙞𝙣𝙜 𝙨𝙚𝙨𝙨𝙞𝙤𝙣! 𝙄𝙛 𝙮𝙤𝙪 𝙬𝙖𝙣𝙩 𝙩𝙤 𝙪𝙨𝙚 𝙊𝙪𝙧 𝙍𝙚𝙥𝙡𝙞𝙩 𝙩𝙝𝙚𝙣 𝙐𝙨𝙚 𝙞𝙣 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙧𝙞𝙨𝙠 !!!]
