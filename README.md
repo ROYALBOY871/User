@@ -20,7 +20,3 @@
 
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ROYALBOY871/Userbot/graphs/commit-activity)
-
-
-[![Sparkline](https://stars.medv.io/ROYALBOY871/Userbot.svg)](https://stars.medv.io/ROYALBOY871/Userbot)
-----
