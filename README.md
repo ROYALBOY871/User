@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/ROYALBOY871/Userbot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/ROYALBOY871/Userbot?label=Forks&logo=github" /> </a>
-[![](https://img.shields.io/badge/Ultroid-v0.3-blue)](#)
+[![](https://img.shields.io/badge/ROYAL-v2.0-pink)](#)
 [![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
 [![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/TeamUltroid/Ultroid/fork)
 [![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/)   
